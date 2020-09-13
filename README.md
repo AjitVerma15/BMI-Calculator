@@ -1,6 +1,9 @@
-# bmicalculator
+# BMI Calculator
 
-A new Flutter application.
+BMI Calculator, its takes input from user like gender,age,height, and weight and gives you the BMI as the result.
+/
+![BMI Calculator](https://user-images.githubusercontent.com/53833570/93013053-9fb32600-f5c2-11ea-9d2d-71fd57e9b594.png)
+
 
 ## Getting Started
 
